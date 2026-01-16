@@ -4,9 +4,9 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # Additions by Uri Cohen
-*.csproj.user
 bin/
 obj/
+.vs/
 
 # User-specific files
 *.rsuser
